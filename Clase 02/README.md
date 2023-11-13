@@ -66,6 +66,8 @@ A continuación, mostramos un esquema de funcionamiento de un árbol de decisió
 
 <img src="https://www.iartificial.net/wp-content/uploads/2019/05/arbol-iris.png"   
 width="500px" height="500px">
+<!-- esta imagen no funciona, agregue la de abajo, parece ser la correcta -->
+<img src="arbol-iris.png" width="500px" height="500px">
 </p>
 
 A raíz de estas preguntas, las fronteras de decisión quedarían conformadas de la siguiente manera:
